@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository so...
+Hello I am Chili. I like Harry Potter a lot and I Rock Climb a lot.
